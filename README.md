@@ -10,3 +10,6 @@ The International Space Station (ISS) is a modular space station (habitable arti
 - [x] Lists comprehension 🤓
 
 - [x] Handling Errors
+
+## Sneak Peek Code
+![image](image1.gif)
