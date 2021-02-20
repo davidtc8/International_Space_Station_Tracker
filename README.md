@@ -4,6 +4,9 @@ Python code 🤖 that tracks where is the International Space Station (ISS) 🚀
 ## What is the International Space Station?
 The International Space Station (ISS) is a modular space station (habitable artificial satellite) in low Earth orbit. It is a multinational collaborative project involving five participating space agencies: NASA (United States), Roscosmos (Russia), JAXA (Japan), ESA (Europe), and CSA (Canada).
 
+## What does the code does?
+The code will run automatically every 3 minutes, and if the ISS is near you it will email you to the email of your choice, letting you know the ISS is near! 
+
 ## Concepts Applied 🧐:
 - [x] API Management 🎨
   
@@ -11,5 +14,5 @@ The International Space Station (ISS) is a modular space station (habitable arti
 
 - [x] Handling Errors
 
-## Sneak Peek Code
+## Code Sneak Peek
 ![image](image1.gif)
